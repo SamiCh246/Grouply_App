@@ -1,4 +1,4 @@
-# Grouply
+# Grouply_App
 
 Grouply is a feature-rich mobile application that allows users to create groups and engage in real-time chatting using the power of Flutter, Firebase, and Dart. With a focus on user-friendliness and efficient communication, this app serves as a dynamic platform for seamless group formation and interactive messaging.
 
